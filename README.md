@@ -30,7 +30,7 @@ This repository is intended to:
 - Python 3.x
 - Jupyter Notebook
 - VS Code / PyCharm
-- Scientific libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+- Scientific libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`
 - (others depending on the scripts)
 
 ## 📌 Requirements
