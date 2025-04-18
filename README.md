@@ -1,29 +1,29 @@
-# 📚 Python & Machine Learning Training – Daily Code Journal
+# Python & Machine Learning Training – Daily Code Journal
 
 Welcome to this repository — a collection of my exercises, scripts, and projects developed during an intensive training course in **Python** and **Machine Learning**.
 
 ## 👤 About Me
 
-- 👨‍💻 Junior Python Developer passionate about **Data Analysis** and **Machine Learning**
-- 🎓 Currently enrolled in an intensive course focused on Python and ML
-- 🚀 Motivated, curious, and committed to continuous learning and exploring innovative solutions
+- Junior Python Developer passionate about **Data Analysis** and **Machine Learning**
+- Currently enrolled in an intensive course focused on Python and ML
+- Motivated, curious, and committed to continuous learning and exploring innovative solutions
 
 ## 🎯 Purpose of This Repository
 
 This repository is intended to:
 
-- ✅ Document my learning journey on a daily basis
-- ✅ Showcase the skills I'm acquiring throughout the course
-- ✅ Keep track of my progress with frequent commits
-- ✅ Serve as a base for future projects and experimentation
+- Document my learning journey on a daily basis
+- Showcase the skills I'm acquiring throughout the course
+- Keep track of my progress with frequent commits
+- Serve as a base for future projects and experimentation
 
 ## 📁 Contents
 
-- 🔸 Python scripts written during lessons and personal practice
-- 🔸 Exercises focused on Object-Oriented Programming (OOP)
-- 🔸 Early-stage data analysis and machine learning projects
-- 🔸 Use of libraries like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and more
-- 🔸 Useful notes and command-line mini tools
+- Python scripts written during lessons and personal practice
+- Exercises focused on Object-Oriented Programming (OOP)
+- Early-stage data analysis and machine learning projects
+- Use of libraries like `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and more
+- Useful notes and command-line mini tools
 
 ## 🛠️ Technologies Used
 
